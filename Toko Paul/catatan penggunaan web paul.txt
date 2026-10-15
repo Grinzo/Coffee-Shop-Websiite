@@ -1,0 +1,13 @@
+catatan
+
+file ekstrak di buka
+eksport database ke mysql(db_kopi_paul yang ada pada file rar)
+
+URl
+halaman user
+localhost/toko paul/
+
+halaman admin
+localhost/toko paul/login.php
+username: admin@tokokopipaul.com
+pasw: admin
